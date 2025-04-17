@@ -46,3 +46,9 @@ Each sample has:
    ```bash
    git clone https://github.com/AbdulRahmanAlsakkaDitAkkad/kaggle-iris-dataset-analysis.git
    cd kaggle-iris-dataset-analysis
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
