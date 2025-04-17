@@ -33,8 +33,10 @@ Each sample has:
 | File Name                   | Description                            |
 |----------------------------|----------------------------------------|
 | `Kaggle Iris Dataset.ipynb`| Main Jupyter notebook                  |
+| `Iris.csv`                 | Dataset file used for the analysis     |
 | `README.md`                | Project overview and instructions      |
-| `requirements.txt`         | (Optional) Python dependencies         |
+| `requirements.txt`         | Python libraries needed to run the code|
+
 
 ---
 
